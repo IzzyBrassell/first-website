@@ -3,7 +3,7 @@
 1. changed the 'div' elements in index.html to semantic elements which will be catagorized below.
     * 'div class=header' was shortened to 'header'
     * the navigation links were given the element 'nav'
-    * the 'class=hero' was given the ele
+    * the 'class=hero' was given the element 'figure'
     * 'class=content' was put as a 'section' element and all div elements within this section were given the 'article' element
     * 'class=benefits' was also put as a 'section' element, however the elements inside were changed to 
     * The footer of the page was given the 'footer' element
